@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on web an
 
 ## About Me
 
-- 💻 I have 5 years of experience in software development.
+- 💻 Self-taught experienced web developer.
 - 🌐 Skilled in front-end development using HTML, CSS, and JavaScript.
 - 🚀 Experienced in building responsive web applications with frameworks like React Next.js and Angular.
 - 💡 Proficient in back-end development using Node.js, Express.js, and relational/non-relational databases.
